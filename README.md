@@ -48,8 +48,9 @@ WOKING-STUDENT-ANALYSIS/
 Install dependencies with:
 
 
-pip install pandas matplotlib
+ pandas matplotlib
 
+---
 
 ▶️ How to Run
 
@@ -57,24 +58,30 @@ Clone the repository or download the ZIP file.
 
 Ensure you have students.csv in the same folder.
 
+---
 Run the notebook:
 
 jupyter notebook working-student-analysis.ipynb
 
+---
 
 To install the dependencies, use this command in your terminal:
 
 
 pip install -r requirements.txt
 
+---
 
 📬 Author
 👨‍💻 Yokesh K. S.
 GitHub: @YOKESHKS
 
+---
+
 📜 License
 This project is open for academic and learning purposes.
 
+---
 
 
 ---
